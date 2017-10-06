@@ -11,12 +11,26 @@ hide_in_feed: false
 
 This six-week course will focus on intermediate programming concepts as seen through the lens of the Python programming language.
 We'll cover the following topics:
-
 - Class/Object anatomy
 - Code Reuse through functions and simple object oriented design
 - Code Testing to ensure correctness
 - Interactive Debugging to understand code failures
 - Modules and Packaging to create reusable code
+
+#### Course Pre-requisites
+- A working knowledge of fundamental python:
+  -  Understanding of how to install new libraries via python tools (pip, conda, etc)
+  - Variable assignment
+  - Invocation of python scripts from the command line
+  - Basic iteration (for loops, list comprehension
+  - Basic python data structures (lists, dicts)
+  - Basic file I/O
+
+- A working knowledge of how to interact with version control (Git/GitHub)
+  - A refresher can be found here: https://guides.github.com/activities/hello-world/
+  - Basic command line cheat sheet can be found here: https://services.github.com/on-demand/downloads/github-git-cheat-sheet/ 
+  - Most IDE’s have some version control support as well. Pycharm/Git support can be found here: https://www.jetbrains.com/help/pycharm/using-git-integration.html 
+
 
 This course is open to Fred Hutch faculty, staff, and affiliates.
 Students must bring a laptop to each class.
