@@ -9,7 +9,7 @@ hide_in_feed: false
 ### *Tuesdays from TBD October &ndash; TBD November, 2017*
 #### *3:00 &ndash; 5:00 pm*
 
-This six-week course will focus on intermediate programming concepts as seen through the lens of the Python programming language.
+This six-week course will focus on intermediate programming concepts as seen through the lens of the python programming language.
 We'll cover the following topics:
 - Class/Object anatomy
 - Code Reuse through functions and simple object oriented design
